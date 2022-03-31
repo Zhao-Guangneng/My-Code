@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\发布包\Temp发布包</_PublishTargetUrl>
+    <History>True|2022-03-29T08:06:20.8274902Z;True|2022-03-28T18:04:34.6395988+08:00;True|2022-03-25T14:08:12.2214636+08:00;True|2022-03-24T22:58:54.5765956+08:00;True|2022-03-24T22:40:04.9932974+08:00;True|2022-03-24T22:15:35.3837813+08:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Aspose.Cells.dll">
+      <publishTime>06/15/2020 13:44:51</publishTime>
+    </File>
+    <File Include="bin/Aspose.Words.dll">
+      <publishTime>06/29/2017 15:44:47</publishTime>
+    </File>
+    <File Include="bin/HtmlSanitizationLibrary.dll">
+      <publishTime>05/23/2014 11:03:26</publishTime>
+    </File>
+    <File Include="bin/ICSharpCode.SharpZipLib.dll">
+      <publishTime>11/21/2011 10:19:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.Core.dll">
+      <publishTime>06/06/2014 14:54:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.Owin.dll">
+      <publishTime>06/06/2014 14:54:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.SystemWeb.dll">
+      <publishTime>06/06/2014 14:54:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>06/06/2014 14:54:15</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>06/06/2014 14:54:15</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/06/2014 14:54:16</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>06/06/2014 14:54:15</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>05/24/2018 13:38:22</publishTime>
+    </File>
+    <File Include="bin/YX.Common.dll">
+      <publishTime>03/31/2018 16:44:38</publishTime>
+    </File>
+    <File Include="bin/YX.DAL.dll">
+      <publishTime>03/09/2018 14:51:29</publishTime>
+    </File>
+    <File Include="bin/YX.DBUtility.dll">
+      <publishTime>04/23/2014 11:17:29</publishTime>
+    </File>
+    <File Include="bin/YX.Security.dll">
+      <publishTime>08/31/2018 16:27:30</publishTime>
+    </File>
+    <File Include="bin/YX.SSO.BLL.dll">
+      <publishTime>07/20/2019 10:47:32</publishTime>
+    </File>
+    <File Include="bin/YX.SSO.dll">
+      <publishTime>08/02/2019 17:03:28</publishTime>
+    </File>
+    <File Include="bin/YX.SYS.BLL.dll">
+      <publishTime>04/03/2020 10:10:19</publishTime>
+    </File>
+    <File Include="bin/YX.TEMP.BLL.dll">
+      <publishTime>08/11/2020 16:49:18</publishTime>
+    </File>
+    <File Include="bin/YX.TEMP.dll">
+      <publishTime>03/29/2022 16:05:59</publishTime>
+    </File>
+    <File Include="bin/YX.TEMP.pdb">
+      <publishTime>03/29/2022 16:05:59</publishTime>
+    </File>
+    <File Include="bin/YX.WorkFlow.BLL.dll">
+      <publishTime>03/19/2020 14:35:01</publishTime>
+    </File>
+    <File Include="TEMP/ajax/getdata.ashx">
+      <publishTime>08/06/2020 16:42:34</publishTime>
+    </File>
+    <File Include="TEMP/js/CostAdvisory.js">
+      <publishTime>08/25/2020 17:10:33</publishTime>
+    </File>
+    <File Include="TEMP/js/CostItems.js">
+      <publishTime>10/22/2020 17:18:56</publishTime>
+    </File>
+    <File Include="TEMP/js/CostItemsPublic.js">
+      <publishTime>08/24/2020 14:40:27</publishTime>
+    </File>
+    <File Include="TEMP/js/CostTravel.js">
+      <publishTime>08/25/2020 17:08:02</publishTime>
+    </File>
+    <File Include="TEMP/SLTD/ajax/getdata.ashx">
+      <publishTime>11/02/2020 10:59:58</publishTime>
+    </File>
+    <File Include="TEMP/SLTD/Introduction.html">
+      <publishTime>10/26/2020 20:14:00</publishTime>
+    </File>
+    <File Include="TEMP/SLTD/js/cgsqbx.js">
+      <publishTime>03/29/2022 15:46:36</publishTime>
+    </File>
+    <File Include="TEMP/SLTD/js/clfbx.js">
+      <publishTime>03/29/2022 10:27:15</publishTime>
+    </File>
+    <File Include="TEMP/SLTD/js/CostItem.js">
+      <publishTime>11/23/2021 21:54:50</publishTime>
+    </File>
+    <File Include="TEMP/SLTD/js/CostLabourServices.js">
+      <publishTime>01/06/2022 11:35:38</publishTime>
+    </File>
+    <File Include="TEMP/SLTD/js/JScriptAll.js">
+      <publishTime>02/03/2021 14:22:58</publishTime>
+    </File>
+    <File Include="TEMP/SLTD/js/kybxd.js">
+      <publishTime>02/12/2022 23:18:52</publishTime>
+    </File>
+    <File Include="TEMP/SLTD/js/kybxd2022.js">
+      <publishTime>03/24/2022 22:26:33</publishTime>
+    </File>
+    <File Include="TEMP/SLTD/js/LWFRule.js">
+      <publishTime>11/30/2020 09:01:36</publishTime>
+    </File>
+    <File Include="TEMP/SLTD/js/sgsqd.js">
+      <publishTime>03/29/2022 15:55:10</publishTime>
+    </File>
+    <File Include="TEMP/SLTD/js/Travel.js">
+      <publishTime>11/24/2021 01:03:16</publishTime>
+    </File>
+    <File Include="TEMP/SLTD/js/xshysp.js">
+      <publishTime>03/25/2022 15:42:53</publishTime>
+    </File>
+    <File Include="TEMP/ZNS/getdata.ashx">
+      <publishTime>09/07/2020 16:48:16</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/29/2022 16:06:20</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

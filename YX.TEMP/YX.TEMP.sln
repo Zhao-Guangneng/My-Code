@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1082
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YX.TEMP", "YX.TEMP\YX.TEMP.csproj", "{EAE53B04-0979-4A70-A2C4-491CA298DF16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YX.TEMP.BLL", "YX.TEMP.BLL\YX.TEMP.BLL.csproj", "{1AF74AC8-D7BB-4799-BACD-CB120F319F14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAE53B04-0979-4A70-A2C4-491CA298DF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE53B04-0979-4A70-A2C4-491CA298DF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE53B04-0979-4A70-A2C4-491CA298DF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE53B04-0979-4A70-A2C4-491CA298DF16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AF74AC8-D7BB-4799-BACD-CB120F319F14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AF74AC8-D7BB-4799-BACD-CB120F319F14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AF74AC8-D7BB-4799-BACD-CB120F319F14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AF74AC8-D7BB-4799-BACD-CB120F319F14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9BF75C78-151D-4A3E-A861-E898B868C991}
+	EndGlobalSection
+EndGlobal

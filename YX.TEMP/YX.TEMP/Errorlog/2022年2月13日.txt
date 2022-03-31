@@ -1,0 +1,32 @@
+
+2022/2/13 21:21:25
+/TEMP/SLTD/ajax/getdata.ashx?r=0.8344352501226222&type=getFeeMoney&ContractID=0100000538&ContractName=%E5%9F%BA%E4%BA%8E%E9%98%B4%E9%98%B3%E7%90%86%E8%AE%BA%E8%BF%90%E7%94%A8%E4%B8%AD%E5%8C%BB%E8%8D%AF%E6%B2%BB%E7%96%97%E8%BD%AC%E7%A7%BB%E6%80%A7%E7%BB%93%E7%9B%B4%E8%82%A0%E7%99%8C%E7%9A%84%E7%9C%9F%E5%AE%9E%E4%B8%96%E7%95%8C%E7%A0%94%E7%A9%B6&tableNum=Form_Table_042&BudgetName=%E8%AE%BE%E5%A4%87%E8%B4%B9&FeeItemName=%E8%AE%BE%E5%A4%87%E8%B4%B9
+****************************************************************************************
+ExecuteFillDataSet函数出现异常。
+错误信息：无法打开登录所请求的数据库 "YX_SLTD"。登录失败。
+用户 'sa' 登录失败。
+命令语句：select BudgetCode from KYPM_Project_BudgetTemplateInfo where TemplateID=(select TemplateID from KYPM_Project_Contract where DeleteMark=0 and ProjectID='0100000538'  and ContractName='基于阴阳理论运用中医药治疗转移性结直肠癌的真实世界研究') and BudgetName like '%设备费%'
+
+2022/2/13 21:25:44
+/TEMP/SLTD/ajax/getdata.ashx?type=getFeeMoney&ContractID=0100000538&ContractName=%E5%9F%BA%E4%BA%8E%E9%98%B4%E9%98%B3%E7%90%86%E8%AE%BA%E8%BF%90%E7%94%A8%E4%B8%AD%E5%8C%BB%E8%8D%AF%E6%B2%BB%E7%96%97%E8%BD%AC%E7%A7%BB%E6%80%A7%E7%BB%93%E7%9B%B4%E8%82%A0%E7%99%8C%E7%9A%84%E7%9C%9F%E5%AE%9E%E4%B8%96%E7%95%8C%E7%A0%94%E7%A9%B6&tableNum=Form_Table_042&BudgetName=%E8%AE%BE%E5%A4%87%E8%B4%B9&FeeItemName=%E8%AE%BE%E5%A4%87%E8%B4%B9
+****************************************************************************************
+ExecuteFillDataSet函数出现异常。
+错误信息：无法打开登录所请求的数据库 "YX_SLTD"。登录失败。
+用户 'sa' 登录失败。
+命令语句：select BudgetCode from KYPM_Project_BudgetTemplateInfo where TemplateID=(select TemplateID from KYPM_Project_Contract where DeleteMark=0 and ProjectID='0100000538'  and ContractName='基于阴阳理论运用中医药治疗转移性结直肠癌的真实世界研究') and BudgetName like '%设备费%'
+
+2022/2/13 21:32:44
+/TEMP/SLTD/ajax/getdata.ashx?type=getUseBalance&ContractID=0100000538&ContractName=%E5%9F%BA%E4%BA%8E%E9%98%B4%E9%98%B3%E7%90%86%E8%AE%BA%E8%BF%90%E7%94%A8%E4%B8%AD%E5%8C%BB%E8%8D%AF%E6%B2%BB%E7%96%97%E8%BD%AC%E7%A7%BB%E6%80%A7%E7%BB%93%E7%9B%B4%E8%82%A0%E7%99%8C%E7%9A%84%E7%9C%9F%E5%AE%9E%E4%B8%96%E7%95%8C%E7%A0%94%E7%A9%B6&tableNum=Form_Table_042&BudgetName=%E8%AE%BE%E5%A4%87%E8%B4%B9&FeeItemName=%E8%AE%BE%E5%A4%87%E8%B4%B9
+****************************************************************************************
+ExecuteFillDataSet函数出现异常。
+错误信息：无法打开登录所请求的数据库 "YX_SLTD"。登录失败。
+用户 'sa' 登录失败。
+命令语句：select BudgetCode from KYPM_Project_BudgetTemplateInfo where TemplateID=(select TemplateID from KYPM_Project_Contract where DeleteMark=0 and ProjectID='0100000538'  and ContractName='基于阴阳理论运用中医药治疗转移性结直肠癌的真实世界研究') and BudgetName like '%设备费%'
+
+2022/2/13 21:37:59
+/TEMP/SLTD/ajax/getdata.ashx?type=getUseBalance&ContractID=0100000538&ContractName=%E5%9F%BA%E4%BA%8E%E9%98%B4%E9%98%B3%E7%90%86%E8%AE%BA%E8%BF%90%E7%94%A8%E4%B8%AD%E5%8C%BB%E8%8D%AF%E6%B2%BB%E7%96%97%E8%BD%AC%E7%A7%BB%E6%80%A7%E7%BB%93%E7%9B%B4%E8%82%A0%E7%99%8C%E7%9A%84%E7%9C%9F%E5%AE%9E%E4%B8%96%E7%95%8C%E7%A0%94%E7%A9%B6&tableNum=Form_Table_042&BudgetName=%E8%AE%BE%E5%A4%87%E8%B4%B9&FeeItemName=%E8%AE%BE%E5%A4%87%E8%B4%B9
+****************************************************************************************
+ExecuteFillDataSet函数出现异常。
+错误信息：无法打开登录所请求的数据库 "YX_SLTD"。登录失败。
+用户 'sa' 登录失败。
+命令语句：select BudgetCode from KYPM_Project_BudgetTemplateInfo where TemplateID=(select TemplateID from KYPM_Project_Contract where DeleteMark=0 and ProjectID='0100000538'  and ContractName='基于阴阳理论运用中医药治疗转移性结直肠癌的真实世界研究') and BudgetName like '%设备费%'
